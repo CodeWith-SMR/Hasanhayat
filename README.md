@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hasanhayat&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Hasanhayat/HasanHayat-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeWith-SMR&data=followers,repositories,stars,commits&theme=dark&hide_border=true)](https://github.com/CodeWith-SMR)
 
  <img src="https://komarev.com/ghpvc/?username=hasanhayat&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhayat" />
 
